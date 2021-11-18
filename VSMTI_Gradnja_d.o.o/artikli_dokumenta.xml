@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<artikliDokumenata>
+    <artikl sifraArtikla="1" stanjeKolicina="5058" kolicinaIzlaz="404" kolicinaUlaz="5462" iznosIzlaz="808" iznosUlaz="10924" stanjeCijena="10116" pCijena="2"/>
+    <artikl sifraArtikla="2" stanjeKolicina="89" kolicinaIzlaz="101" kolicinaUlaz="190" iznosIzlaz="101" iznosUlaz="190" stanjeCijena="89" pCijena="1"/>
+    <artikl sifraArtikla="3" stanjeKolicina="332" kolicinaIzlaz="0" kolicinaUlaz="332" iznosIzlaz="0" iznosUlaz="2988" stanjeCijena="2988" pCijena="9"/>
+    <artikl sifraArtikla="4" stanjeKolicina="94" kolicinaIzlaz="6" kolicinaUlaz="100" iznosIzlaz="240" iznosUlaz="4000" stanjeCijena="3760" pCijena="40"/>
+    <artikl sifraArtikla="5" stanjeKolicina="72" kolicinaIzlaz="28" kolicinaUlaz="100" iznosIzlaz="84" iznosUlaz="300" stanjeCijena="216" pCijena="3"/>
+    <artikl sifraArtikla="6" stanjeKolicina="41" kolicinaIzlaz="129" kolicinaUlaz="170" iznosIzlaz="129" iznosUlaz="170" stanjeCijena="41" pCijena="1"/>
+    <artikl sifraArtikla="7" stanjeKolicina="138" kolicinaIzlaz="12" kolicinaUlaz="150" iznosIzlaz="108" iznosUlaz="1350" stanjeCijena="1242" pCijena="9"/>
+    <artikl sifraArtikla="8" stanjeKolicina="99" kolicinaIzlaz="1" kolicinaUlaz="100" iznosIzlaz="30" iznosUlaz="3000" stanjeCijena="2970" pCijena="30"/>
+    <artikl sifraArtikla="9" stanjeKolicina="12" kolicinaIzlaz="88" kolicinaUlaz="100" iznosIzlaz="704" iznosUlaz="800" stanjeCijena="96" pCijena="8"/>
+    <artikl sifraArtikla="10" stanjeKolicina="91" kolicinaIzlaz="12" kolicinaUlaz="103" iznosIzlaz="1800" iznosUlaz="15450" stanjeCijena="13650" pCijena="150"/>
+</artikliDokumenata>

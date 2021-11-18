@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+  <artikl sifraArtikla="1" nazivArtikla="Cigla" JMJ="kom" cijenaArtikla="2"/>
+  <artikl sifraArtikla="2" nazivArtikla="Cement" JMJ="kg" cijenaArtikla="1"/>
+  <artikl sifraArtikla="3" nazivArtikla="Drvena letva" JMJ="kom" cijenaArtikla="9"/>
+  <artikl sifraArtikla="4" nazivArtikla="OSB ploca" JMJ="kom" cijenaArtikla="40"/>
+  <artikl sifraArtikla="5" nazivArtikla="Stiropor" JMJ="kom" cijenaArtikla="3"/>
+  <artikl sifraArtikla="6" nazivArtikla="Zbuka" JMJ="kg" cijenaArtikla="1"/>
+  <artikl sifraArtikla="7" nazivArtikla="Modelarski gips" JMJ="kg" cijenaArtikla="9"/>
+  <artikl sifraArtikla="8" nazivArtikla="Samourezni vijci" JMJ="pak" cijenaArtikla="30"/>
+  <artikl sifraArtikla="9" nazivArtikla="Ljepilo za plocice" JMJ="kg" cijenaArtikla="8"/>
+  <artikl sifraArtikla="10" nazivArtikla="Izolacijske ploce" JMJ="kom" cijenaArtikla="150"/>
+</dataset>
